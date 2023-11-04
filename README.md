@@ -1,4 +1,4 @@
-# Ensuring Transparency in Takeovers: Evaluating Information Retrieval in the Indian Financial Market
+## Ensuring Transparency in Takeovers: Evaluating Information Retrieval in the Indian Financial Market
 The level of trust that retail investors exhibit has a big impact on the
 growth of the capital market. Consequently, it is imperative to ensure the pro-
 tection of their interests. To arrive at a well-informed conclusion, it is important
