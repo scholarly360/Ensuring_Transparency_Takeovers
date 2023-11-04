@@ -1,4 +1,4 @@
-# Ensuring_Transparency_Takeovers
+# Ensuring Transparency in Takeovers: Evaluating Information Retrieval in the Indian Financial Market
 The level of trust that retail investors exhibit has a big impact on the
 growth of the capital market. Consequently, it is imperative to ensure the pro-
 tection of their interests. To arrive at a well-informed conclusion, it is important
@@ -13,3 +13,13 @@ ta for the Natural Language Processing and Information Retrieval community.
 The raw data is in standard reusable format, ensuring its ease of use. Addition-
 ally, the author has published a Q&A resource that can be used by regulators,
 merchant bankers, and investors.
+
+> 4th International Conference On Computational Intelligence  (ICCI 2023)
+
+```
+Raw DLOF Data : https://drive.google.com/drive/folders/1B_f6E-mlq4ShoJNYAmM4TJPAplcYJP2F?usp=drive_link
+```
+
+```
+BEIR Format : https://drive.google.com/drive/folders/1zwBLDPOS_eQEfAxrWn8LwG3APqNbb6an?usp=drive_link
+```
